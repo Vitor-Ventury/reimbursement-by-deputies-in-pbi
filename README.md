@@ -25,7 +25,7 @@ Para melhor compreensão dos dados e dos conteúdos irei adicionar os dados, sã
 
 1. base_deputados(csv)
 
-2. tratamento_deputados(ipynb)
+2. tratamento_deputados(py)
 
 3. Reembolso por deputados(pbix)
 
