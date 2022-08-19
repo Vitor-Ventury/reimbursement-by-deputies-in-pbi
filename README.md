@@ -27,7 +27,7 @@ Para melhor compreensão dos dados e dos conteúdos irei adicionar os dados, sã
 
 2. Reembolso por deputados(pbix)
 
-3. Dashboard(pdf)
+3. Dashboard(png)
 
 ## Tratamento de dados
 
