@@ -23,13 +23,11 @@ As perguntas para elaborar o relatório foram:
 
 Para melhor compreensão dos dados e dos conteúdos irei adicionar os dados, são eles:
 
-1. base_deputados(csv)
+1. tratamento_deputados(py)
 
-2. tratamento_deputados(py)
+2. Reembolso por deputados(pbix)
 
-3. Reembolso por deputados(pbix)
-
-4. Dashboard(pdf)
+3. Dashboard(pdf)
 
 ## Tratamento de dados
 
